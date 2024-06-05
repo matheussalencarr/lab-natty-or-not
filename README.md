@@ -17,7 +17,7 @@ No meu caso, forneci a seguinte descrição: "Play some smooth jazz". O resultad
 O resultado obtido foi um arquivo .mp3 disponibilizado no repositório.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+A IA está cada vez mais impressionante. O leque de ferramentas disponíveis abre um mundo de possibilidades para o que podemos criar. Com certeza, não existirá um futuro sem IA.
 ```
 
 
