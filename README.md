@@ -20,19 +20,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Eu sei o que você com essa música no verão passado
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O projeto é uma música gerada através de uma Inteligência artificial que recebe um comando de entrada.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+A ferramenta utilizada foi a MusicFX do Google
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Para utilizar a ferramenta, basta inserir uma breve descrição da música que deseja gerar. Em meu caso, forneci a seguinte descriçao: "Play some smooth jazz". O resultado obtido pode ser baixado nesse repositório.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado obtido foi um arquivo .mp3 que foi disponibilizado no repositório.
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
