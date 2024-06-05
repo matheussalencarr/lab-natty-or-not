@@ -23,16 +23,16 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Eu sei o que você com essa música no verão passado
 
 ## 📒 Descrição
-O projeto é uma música gerada através de uma Inteligência artificial que recebe um comando de entrada.
+O projeto é uma música gerada por uma inteligência artificial que recebe um comando de entrada.
 
 ## 🤖 Tecnologias Utilizadas
-A ferramenta utilizada foi a MusicFX do Google
+A ferramenta utilizada foi a MusicFX do Google.
 
 ## 🧐 Processo de Criação
-Para utilizar a ferramenta, basta inserir uma breve descrição da música que deseja gerar. Em meu caso, forneci a seguinte descriçao: "Play some smooth jazz". O resultado obtido pode ser baixado nesse repositório.
+Para utilizar a ferramenta, basta inserir uma breve descrição da música que deseja gerar. No meu caso, forneci a seguinte descrição: "Play some smooth jazz". O resultado obtido pode ser baixado neste repositório.
 
 ## 🚀 Resultados
-O resultado obtido foi um arquivo .mp3 que foi disponibilizado no repositório.
+O resultado obtido foi um arquivo .mp3 disponibilizado no repositório.
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
