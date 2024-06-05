@@ -10,7 +10,8 @@ O projeto é uma música gerada por uma inteligência artificial que recebe um c
 A ferramenta utilizada foi a MusicFX do Google.
 
 ## 🧐 Processo de Criação
-Para utilizar a ferramenta, basta inserir uma breve descrição da música que deseja gerar. No meu caso, forneci a seguinte descrição: "Play some smooth jazz". O resultado obtido pode ser baixado neste repositório.
+Para utilizar a ferramenta, basta inserir uma breve descrição da música que deseja gerar.
+No meu caso, forneci a seguinte descrição: "Play some smooth jazz". O resultado obtido pode ser baixado neste repositório.
 
 ## 🚀 Resultados
 O resultado obtido foi um arquivo .mp3 disponibilizado no repositório.
